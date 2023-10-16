@@ -1,2 +1,2 @@
 # My-Pack
-Pack MCBE
+Synthesize many different packs combined
